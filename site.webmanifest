@@ -1,0 +1,21 @@
+{
+    "short_name": "Test Short Name",
+    "name": "Test Name",
+    "icons": [
+        {
+            "src": "https://raw.githubusercontent.com/Beecoder01/Games/main/icon32.png",
+            "type": "image/png",
+            "sizes": "32x32"
+        },
+        {
+            "src": "https://raw.githubusercontent.com/Beecoder01/Games/main/icon16.png",
+            "type": "image/png",
+            "sizes": "16x16"
+        }
+    ],
+    "start_url": "/?source=pwa",
+    "background_color": "#3367D6",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#3367D6"
+}
